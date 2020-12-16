@@ -12,7 +12,7 @@ Users can:
 ## Database schema
 
 This database uses relational data.
-(https://github.com/derejmi/API-Design/blob/master/apischema.png)
+![alt text](https://github.com/derejmi/API-Design/blob/master/apischema.png)
 
 ## RESTful Routes
 
